@@ -1,0 +1,68 @@
+{
+  "username": "username",
+  "password": "4c29b665f1c59fca1bbad3bf835d780c857d1eaf2fa78d992ddf72008bdc7d4f",
+  "nickName": "NICKNAME",
+  "email": "email@gmail.com",
+  "questionNumber": 0,
+  "questionAnswer": "answer",
+  "highScore": 0,
+  "rank": 0
+}{
+  "username": "user",
+  "password": "9714db81eab6f27b4d88de6df4272f881c05bc8ec79279da2c1bacafa45743fa",
+  "nickName": "NICK",
+  "email": "imail@gmail.com",
+  "questionNumber": 0,
+  "questionAnswer": "jamal",
+  "highScore": 0,
+  "rank": 0
+}{
+  "username": "barbod",
+  "password": "6b3764afcb0ce62ecc7cbb7e7015e9608c79e85c760dedb1081e2214bc5362c8",
+  "nickName": "nikname",
+  "email": "barbod1383@gmail.com",
+  "questionNumber": 0,
+  "questionAnswer": "pedaret",
+  "highScore": 0,
+  "rank": 0
+}{
+  "username": "mahnaz",
+  "password": "922827468712b1cb8df645dab07dad666224690f9b033a73783ec693c6937eac",
+  "nickName": "akram",
+  "email": "email@gmail2.com",
+  "questionNumber": 0,
+  "questionAnswer": "shokrollah",
+  "highScore": 0,
+  "rank": 0,
+  "slogan": "War is only a cowardly escape from the problems of peace."
+}{
+  "username": "user1",
+  "password": "4c29b665f1c59fca1bbad3bf835d780c857d1eaf2fa78d992ddf72008bdc7d4f",
+  "nickName": "NICK",
+  "email": "email@gmail.com1",
+  "questionNumber": 0,
+  "questionAnswer": "answer",
+  "highScore": 0,
+  "rank": 0,
+  "government": {
+    "fearRate": 0,
+    "popularity": 0,
+    "foodRate": 0,
+    "taxRate": 0
+  }
+}{
+  "username": "user2",
+  "password": "0637c968ba530ad433fec4fb4013335ace3ed3946cea6a164819d642ff58f054",
+  "nickName": "nnn",
+  "email": "email@fmfiall.cl",
+  "questionNumber": 0,
+  "questionAnswer": "ans",
+  "highScore": 0,
+  "rank": 0,
+  "government": {
+    "fearRate": 0,
+    "popularity": 0,
+    "foodRate": 0,
+    "taxRate": 0
+  }
+}
