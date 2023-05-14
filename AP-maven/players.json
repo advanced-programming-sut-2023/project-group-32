@@ -1,0 +1,65 @@
+{
+  "username": "username1",
+  "password": "4c29b665f1c59fca1bbad3bf835d780c857d1eaf2fa78d992ddf72008bdc7d4f",
+  "nickName": "NICK",
+  "email": "email@gmail.com",
+  "questionNumber": 0,
+  "questionAnswer": "answer",
+  "highScore": 0,
+  "rank": 0,
+  "government": {
+    "headquarters": {
+      "hp": 100,
+      "fullHp": 100,
+      "name": "HeadQuarters",
+      "buildingType": "CastleBuilding",
+      "requiredWorkers": 0,
+      "popularityRate": 0,
+      "x": 0,
+      "y": 0
+    },
+    "fearRate": 0,
+    "popularity": 0,
+    "foodRate": -2,
+    "taxRate": 0,
+    "population": 15,
+    "freePopulation": 0,
+    "gold": 100,
+    "buildings": [],
+    "troops": [],
+    "foods": [],
+    "name": "username1"
+  }
+}{
+  "username": "user",
+  "password": "f603cea51f0ccf96617f4258291eb6c211a97b220e2adb765c219ec077ac7973",
+  "nickName": "NICKNAME",
+  "email": "fmail@gmail.com",
+  "questionNumber": 0,
+  "questionAnswer": "answer",
+  "highScore": 0,
+  "rank": 0,
+  "government": {
+    "headquarters": {
+      "hp": 100,
+      "fullHp": 100,
+      "name": "HeadQuarters",
+      "buildingType": "CastleBuilding",
+      "requiredWorkers": 0,
+      "popularityRate": 0,
+      "x": 0,
+      "y": 0
+    },
+    "fearRate": 0,
+    "popularity": 0,
+    "foodRate": -2,
+    "taxRate": 0,
+    "population": 15,
+    "freePopulation": 0,
+    "gold": 100,
+    "buildings": [],
+    "troops": [],
+    "foods": [],
+    "name": "user"
+  }
+}
